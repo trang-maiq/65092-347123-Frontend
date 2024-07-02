@@ -1,0 +1,39 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "Custom event description if available",
+        "linkText": "Custom link text if available"
+      }
+    },
+    {
+      "id": "BannerWithLink"
+    },
+    {
+      "id": "HeroSimpleCentered"
+    },
+    {
+      "id": "TestimonialsGrid"
+    },
+    {
+      "id": "StatsSimpleGrid"
+    },
+    {
+      "id": "CtaSimpleCentered"
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText"
+    },
+    {
+      "id": "NewsletterCenteredCard"
+    },
+    {
+      "id": "FooterSimpleCentered"
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "AI Generated Header",
+  "subtitle": "AI Generated Subtitle"
+}
